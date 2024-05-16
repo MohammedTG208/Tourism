@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81175625930",
+    "project_id": "test-98edc",
+    "storage_bucket": "test-98edc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81175625930:android:fc1b91aa1e34a23cfe7433",
+        "android_client_info": {
+          "package_name": "com.tvtc.tourism_albaha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxuNUnALR8GlniIwwLnJpfeMN5fW11Wsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
